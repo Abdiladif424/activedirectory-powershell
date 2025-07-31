@@ -37,13 +37,13 @@ This tutorial outlines steps on how to configure users in PowerShell within Azur
 3. Run the script and observe the accounts being created
 - When finished, open ADUC and observe the accounts in the appropriate OU　(_EMPLOYEES)
 
-  <img width="2559" height="1439" alt="Screenshot 2025-07-21 105018" src="https://github.com/user-attachments/assets/7aef91be-0060-4dd2-8126-e1ce7c125faa" />
+<img width="2559" height="1439" alt="Screenshot 2025-07-21 105018" src="https://github.com/user-attachments/assets/7aef91be-0060-4dd2-8126-e1ce7c125faa" />
 
 4. Attempt to log into Client-1 with one of the accounts (take note of the password in the script)
 
-   - Username: bab.pif
-   - Password: Password1
-   - We successfully logged in to a client account!
+- Username: bab.pif
+- Password: Password1
+- We successfully logged in to a client account!
 
 <img width="2559" height="1439" alt="Screenshot 2025-07-21 105751" src="https://github.com/user-attachments/assets/111310fb-ae17-45a0-b735-b4a8f4c0d42c" />
 
